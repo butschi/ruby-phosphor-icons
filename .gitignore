@@ -20,6 +20,6 @@ phosphor_icons*.gem
 .tool-versions
 
 # Ignore build/export artifacts
-lib/**/build/
+# lib/**/build/
 
 Gemfile.lock
